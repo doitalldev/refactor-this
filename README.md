@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
 [![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
 
-## I'm a Husband, Father, and Developer
+## About Me
 
 - 🎳 I am looking to join a team of devs and work on interesting projects
 - 🎓 I've recently completed the Thinkful Software Engineering Bootcamp
@@ -21,7 +21,7 @@
 
 <br />
 
-## Technologies:
+### My Technologies
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png" />
@@ -38,7 +38,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
-### Front End
+#### Front End:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -46,11 +46,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 ![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?style=flat-square&logo=gatsby)
-![NextJS](https://img.shields.io/badge/-NextJS-ffffff?style=flat-square&logo=next.js&logoColor=000000)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 
-### Back End
+#### Back End:
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=yellow)
@@ -59,12 +59,12 @@
 
 <!-- ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white) -->
 
-### Databases
+#### Databases:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-### Extra
+#### Extra:
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
