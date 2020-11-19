@@ -1,7 +1,9 @@
-### Hello, I my name is Jonathan -> [jonnyboydev][website] <img src="https://raw.githubusercontent.com/jonnyboydev/jonnyboydev/master/wave.gif" width="30px">
+### Hello, I my name is Jonathan -> [jonnyboydev][website] <img src="https://raw.githubusercontent.com/jonnyboydev/jonnyboydev/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=jonnyboy.dev&style=for-the-badge&url=https%3A%2F%2Fjonnyboy.dev)](https://jonnyboy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonnyboydev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonnyboydev&screen_name=jonnyboydev)
+[![Linkedin Badge](https://img.shields.io/badge/-jonathan-b-clark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
+[![Gmail Badge](https://img.shields.io/badge/-contact@jonnyboy.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
 
 ## I'm a Husband, Father, and Developer
 
@@ -13,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jonnyboy.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="jonnyboy.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jonnyboydev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jonnyboydev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jonnyboydev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
 <br />
 
