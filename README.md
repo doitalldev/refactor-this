@@ -2,18 +2,18 @@
 
 [![Website](https://img.shields.io/website?label=jonnyboy.dev&style=for-the-badge&url=https%3A%2F%2Fjonnyboy.dev)](https://jonnyboy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonnyboydev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonnyboydev&screen_name=jonnyboydev)
-[![Linkedin Badge](https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
-[![Gmail Badge](https://img.shields.io/badge/?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
+[![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
 
 ## I'm a Husband, Father, and Developer
 
-- 🎓 I've recently completed the Thinkful Software Engineering Bootcamp
-- 🌱 I’m currently learning as much as I can
-- 🎳 I am looking to join a team of devs and work on interesting projects
-- 🥅 I'm going to: Contribute more to Open Source projects
-- 🤪 Fun fact: I love to create things and even woodwork in my spare time
+🎳 I am looking to join a team of devs and work on interesting projects
+🎓 I've recently completed the Thinkful Software Engineering Bootcamp
+🌱 I’m currently learning as much as I can
+🥅 I'm going to: Contribute more to Open Source projects
+🤪 Fun fact: I love to create things and even woodwork in my spare time
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="jonnyboy.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jonnyboydev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -61,17 +61,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="jonnyboydev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jonnyboydev&show_icons=true&hide_border=true" />
-</details>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jonnyboydev&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyboydev&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jonnyboydev.jonnyboydev)
 
 [website]: https://jonnyboydev.com
 [twitter]: https://twitter.com/jonnyboydev
