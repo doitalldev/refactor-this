@@ -1,4 +1,4 @@
-### Hello, I my name is Jonathan -> [jonnyboydev][website] <img src="https://raw.githubusercontent.com/jonnyboydev/jonnyboydev/main/wave.gif" width="30px">
+### Hello, I my name is Jonathan <img src="https://raw.githubusercontent.com/jonnyboydev/jonnyboydev/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=jonnyboy.dev&style=for-the-badge&url=https%3A%2F%2Fjonnyboy.dev)](https://jonnyboy.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jonnyboydev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonnyboydev&screen_name=jonnyboydev)
@@ -7,11 +7,11 @@
 
 ## I'm a Husband, Father, and Developer
 
-🎳 I am looking to join a team of devs and work on interesting projects
-🎓 I've recently completed the Thinkful Software Engineering Bootcamp
-🌱 I’m currently learning as much as I can
-🥅 I'm going to: Contribute more to Open Source projects
-🤪 Fun fact: I love to create things and even woodwork in my spare time
+- 🎳 I am looking to join a team of devs and work on interesting projects
+- 🎓 I've recently completed the Thinkful Software Engineering Bootcamp
+- 🌱 I’m currently learning as much as I can
+- 🥅 I'm going to: Contribute more to Open Source projects
+- 🤪 Fun fact: I love to create things and even woodwork in my spare time
 
 <!-- ### Connect with me: -->
 
@@ -21,7 +21,7 @@
 
 <br />
 
-### Technologies:
+## Technologies:
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/vim-283379.png" />
@@ -38,19 +38,34 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+### Front End
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?style=flat-square&logo=gatsby)
+![NextJS](https://img.shields.io/badge/-NextJS-ffffff?style=flat-square&logo=next.js&logoColor=000000)
+
+### Back End
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=yellow)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+
+<!-- ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white) -->
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+### Extra
+
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
