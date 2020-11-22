@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Raleway";
+  src: url("/fonts/Raleway-Regular.ttf");
+  font-weight: 400; /* Sets the font-weight of the font, 400 = normal, 700 = bold */
+  font-style: normal; /* Sets the style of the font, bold | normal | bold */
+  font-display: swap; /* Sets how the font is rendered before the font loads, swap = show text, reload once font is loaded */
+}

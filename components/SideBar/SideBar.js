@@ -10,12 +10,13 @@ import {
   DiPostgresql,
   DiMongodb,
 } from "react-icons/di"
+import styles from "./Sidebar.module.scss"
 
 export default function SideBar() {
   const resumeLink =
     "https://drive.google.com/file/d/1cvuItCpu0P7LKUCA_MJHfnNDZvO3qOV4/view?usp=sharing"
   return (
-    <container>
+    <div className={styles.sidebar}>
       <div>
         <Image
           src="/images/profile.jpg"
@@ -34,13 +35,13 @@ export default function SideBar() {
       <div className="links-area">
         <ul>
           <li>
-            <Link href="/blog">
-              <a>Blog</a>
+            <Link href="/projects">
+              <a>Projects</a>
             </Link>
           </li>
           <li>
-            <Link href="/projects">
-              <a>Projects</a>
+            <Link href="/blog">
+              <a>Blog</a>
             </Link>
           </li>
           <li>
@@ -62,6 +63,6 @@ export default function SideBar() {
           <DiPostgresql color="blue" /> <DiPython color="4B8BBE" />
         </div>
       </div>
-    </container>
+    </div>
   )
 }
