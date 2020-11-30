@@ -1,0 +1,43 @@
+main {
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerImage {
+  width: 6rem;
+  height: 6rem;
+}
+
+.headerHomeImage {
+  width: 8rem;
+  height: 8rem;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  left: 0;
+  display: inline-block;
+}
+
+.content {
+  display: inline-block;
+  width: auto;
+  height: 100vh;
+}

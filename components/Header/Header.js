@@ -1,6 +1,6 @@
-import React from "react";
-import "./Header.module.scss";
-import { Link } from "react-router-dom";
+import React from "react"
+import "./Header.module.scss"
+import Link from "next/link"
 
 export default function Header() {
   return (
@@ -10,5 +10,5 @@ export default function Header() {
       </Link>
       <h2>Site under construction</h2>
     </header>
-  );
+  )
 }

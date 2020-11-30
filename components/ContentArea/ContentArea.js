@@ -1,7 +1,5 @@
-import "./ContentArea.module.scss"
-
 const ContentArea = () => {
-  return <div className="content-area">content</div>
+  return <section className="content">content</section>
 }
 
 export default ContentArea

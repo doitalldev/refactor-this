@@ -1,10 +1,9 @@
 import Head from "next/head"
-import styles from "./layout.module.scss"
-import utilStyles from "../styles/utils.module.scss"
+
 import Link from "next/link"
-import SideBar from "../components/SideBar/SideBar.js"
+import SideBar from "./SideBar/SideBar.js"
 import GoogleFonts from "next-google-fonts"
-import ContentArea from "../components/ContentArea/ContentArea.js"
+import ContentArea from "./ContentArea/ContentArea.js"
 
 export const siteTitle = "JonnyBoyDev Portfolio and Blog"
 
@@ -17,7 +16,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Personal portfolio and blog of Jonny C"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
