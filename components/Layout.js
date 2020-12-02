@@ -10,7 +10,7 @@ export const siteTitle = "JonnyBoyDev Portfolio and Blog"
 export default function Layout({ children }) {
   return (
     <>
-      <GoogleFonts href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" />
+      <GoogleFonts href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" />
 
       <Head>
         <link rel="icon" href="/favicon.ico" />

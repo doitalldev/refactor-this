@@ -26,13 +26,12 @@ export default function SideBar() {
     "https://drive.google.com/file/d/1cvuItCpu0P7LKUCA_MJHfnNDZvO3qOV4/view?usp=sharing"
   return (
     <section className={styles.sidebar}>
-      <div>
+      <div className={styles.logo}>
         <Image
-          src="/images/profile.jpg"
+          src="/logo/jonnyboydev-logo-white.png"
           alt="JonnyBoyDev profile"
-          width={100}
+          width={150}
           height={100}
-          className="profile-img"
         />
       </div>
 
