@@ -12,6 +12,9 @@
   justify-content: center;
   background-color: #1962a2;
   color: white;
+  -moz-box-shadow: -3px 0 5px 0 #555;
+  -webkit-box-shadow: -3px 0 5px 0 #555;
+  box-shadow: 2px 0 5px 0 #555;
 
   ul {
     list-style-type: none;

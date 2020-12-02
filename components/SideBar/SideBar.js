@@ -55,13 +55,19 @@ export default function SideBar() {
             </Link>
           </li>
           <li>
-            <a href="#">LinkedIn</a>
+            <Link href="/services">
+              <a>Services</a>
+            </Link>
           </li>
           <li>
-            <a href="#">Github</a>
+            <Link href="/contact">
+              <a>Contact</a>
+            </Link>
           </li>
           <li>
-            <a href="#">Email</a>
+            <Link href="/about">
+              <a>About</a>
+            </Link>
           </li>
         </ul>
       </div>

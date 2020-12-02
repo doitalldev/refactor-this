@@ -1,14 +1,13 @@
 import React from "react"
-import "./Header.module.scss"
-import Link from "next/link"
+import styles from "./Header.module.scss"
 
-export default function Header() {
+const Header = ({ title, tagline }) => {
   return (
-    <header>
-      <Link to="/">
-        <h1>Jonathan Clark</h1>
-      </Link>
-      <h2>Site under construction</h2>
+    <header className={styles.header}>
+      <h1>{title}</h1>
+      <h2>{tagline}</h2>
     </header>
   )
 }
+
+export default Header

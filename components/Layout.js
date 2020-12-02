@@ -7,7 +7,7 @@ import ContentArea from "./ContentArea/ContentArea"
 
 export const siteTitle = "JonnyBoyDev Portfolio and Blog"
 
-export default function Layout({ children, home }) {
+export default function Layout({ children }) {
   return (
     <>
       <GoogleFonts href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" />
@@ -20,14 +20,10 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <title>{siteTitle}</title>
       </Head>
-
-      <main>
-        <SideBar />
-        <ContentArea />
-
-        {children}
-      </main>
+      <SideBar />
+      <main>{children}</main>
     </>
   )
 }
