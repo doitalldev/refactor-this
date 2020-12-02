@@ -1,9 +1,9 @@
 import Head from "next/head"
 
 import Link from "next/link"
-import SideBar from "./SideBar/SideBar.js"
+import SideBar from "./SideBar/SideBar"
 import GoogleFonts from "next-google-fonts"
-import ContentArea from "./ContentArea/ContentArea.js"
+import ContentArea from "./ContentArea/ContentArea"
 
 export const siteTitle = "JonnyBoyDev Portfolio and Blog"
 

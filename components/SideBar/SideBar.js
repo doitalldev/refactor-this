@@ -10,12 +10,14 @@ import {
   DiPostgresql,
   DiMongodb,
 } from "react-icons/di"
+import styles from "./SideBar.module.scss"
+console.log({ styles })
 
 export default function SideBar() {
   const resumeLink =
     "https://drive.google.com/file/d/1cvuItCpu0P7LKUCA_MJHfnNDZvO3qOV4/view?usp=sharing"
   return (
-    <section className="sidebar">
+    <section className={styles.sidebar}>
       <div>
         <Image
           src="/images/profile.jpg"
@@ -25,13 +27,13 @@ export default function SideBar() {
           className="profile-img"
         />
       </div>
-      <div className="download">
+      <div className={styles.download}>
         <a href={resumeLink}>
           <FaFileDownload />
           Resume
         </a>
       </div>
-      <div className="links-area">
+      <div className={styles.listarea}>
         <ul>
           <li>
             <Link href="/projects">
