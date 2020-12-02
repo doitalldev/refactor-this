@@ -10,6 +10,14 @@ import {
   DiPostgresql,
   DiMongodb,
 } from "react-icons/di"
+import {
+  AiFillTwitterSquare,
+  AiFillLinkedin,
+  AiFillMail,
+  AiFillInstagram,
+  AiFillGithub,
+} from "react-icons/ai"
+
 import styles from "./SideBar.module.scss"
 console.log({ styles })
 
@@ -27,13 +35,14 @@ export default function SideBar() {
           className="profile-img"
         />
       </div>
-      <div className={styles.download}>
-        <a href={resumeLink}>
-          <FaFileDownload />
-          Resume
-        </a>
-      </div>
+
       <div className={styles.listarea}>
+        <div className={styles.download}>
+          <a href={resumeLink}>
+            <FaFileDownload />
+            Resume
+          </a>
+        </div>
         <ul>
           <li>
             <Link href="/projects">
@@ -55,6 +64,23 @@ export default function SideBar() {
             <a href="#">Email</a>
           </li>
         </ul>
+      </div>
+      <div className={styles.socials}>
+        <a href="mailto:contact@jonnyboy.dev">
+          <AiFillMail size="22px" />
+        </a>
+        <a href="https://www.linkedin.com/in/jonathan-b-clark/">
+          <AiFillLinkedin size="22px" />
+        </a>
+        <a href="https://github.com/jonnyboydev">
+          <AiFillGithub size="22px" />
+        </a>
+        <a href="https://www.instagram.com/jonnyboydev/">
+          <AiFillInstagram size="22px" />
+        </a>
+        <a href="https://twitter.com/jonnyboydev">
+          <AiFillTwitterSquare size="22px" />
+        </a>
       </div>
       <div className="skills-area">
         <div className="skills-logos">
