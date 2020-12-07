@@ -33,15 +33,15 @@ export default function SideBar() {
           width={150}
           height={100}
         />
-      </div>
-
-      <div className={styles.listarea}>
         <div className={styles.download}>
           <a href={resumeLink}>
             <FaFileDownload />
             Resume
           </a>
         </div>
+      </div>
+
+      <div className={styles.listarea}>
         <ul>
           <li>
             <Link href="/projects">
