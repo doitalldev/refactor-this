@@ -1,7 +1,7 @@
-### Hello, I my name is Jonathan <img src="https://raw.githubusercontent.com/jonnyboydev/jonnyboydev/main/wave.gif" width="30px">
+### Hello, I my name is Jonathan <img src="https://raw.githubusercontent.com/jclarktech/jclarktech/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=jonnyboy.dev&style=for-the-badge&url=https%3A%2F%2Fjonnyboy.dev)](https://jonnyboy.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonnyboydev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjonnyboydev&screen_name=jonnyboydev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jclarktech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjclarktech&screen_name=jclarktech)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
 [![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
 
@@ -55,10 +55,10 @@
 
 <br />
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jonnyboydev&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jclarktech&count_private=true&show_icons=true&include_all_commits=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyboydev&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclarktech&hide=TeX&layout=compact)
 
-[website]: https://jonnyboydev.com
-[twitter]: https://twitter.com/jonnyboydev
-[linkedin]: https://linkedin.com/in/jonnyboydev
+[website]: https://jclarktech.com
+[twitter]: https://twitter.com/jclarktech
+[linkedin]: https://linkedin.com/in/jclarktech
