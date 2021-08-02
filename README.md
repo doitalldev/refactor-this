@@ -1,17 +1,17 @@
 ### Hello, I my name is Jonathan <img src="https://raw.githubusercontent.com/jclarktech/jclarktech/main/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=jonnyboy.dev&style=for-the-badge&url=https%3A%2F%2Fjonnyboy.dev)](https://jonnyboy.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jclarktech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjclarktech&screen_name=jclarktech)
+[![Website](https://img.shields.io/website?label=refactorthis.dev&style=for-the-badge&url=https%3A%2F%2Frefactorthis.dev)](https://refactorthis.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jclarktech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frefactor_this&screen_name=refactor_this)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
-[![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@jonnyboy.dev)](mailto:contact@jonnyboy.dev)
+[![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@refactorthis.dev)](mailto:contact@refactorthis.dev)
 
 ## About Me
 
-- 🎳 I am looking to join a team of devs and work on interesting projects
-- 🎓 I've recently completed the Thinkful Software Engineering Bootcamp
-- 🤔 I'm primarily self-taught and continue to learn as much as I can
+- 🎳 I am a freelance full stack developer
+- 🎓 I'm primarily self-taught, but I did graduate the Thinkful Software Engineering Bootcamp
+- 🤔 I believe that you should always be learning
 - 🥅 Goal: Contribute more to open source projects
-- 🎉 Fun fact: I love to create things and even woodwork in my spare time
+- 🎉 Fun fact: I love to create things and problem-solve. Unsurprisingly this matches perfectly with software engineering ¯\_(ツ)_/¯ 
   <br />
 
 ### My Technologies
@@ -24,9 +24,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![GatsbyJS](https://img.shields.io/badge/-GatsbyJS-663399?style=flat-square&logo=gatsby)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+![Shopify](https://img.shields.io/badge/-Shopify-000000?style=flat-square&logo=shopify&logoColor=96bf48)
 
 #### Back End:
 
@@ -55,10 +55,10 @@
 
 <br />
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jclarktech&count_private=true&show_icons=true&include_all_commits=true) -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=refactor-this&count_private=true&show_icons=true&include_all_commits=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclarktech&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactor-this&hide=TeX&layout=compact)
 
-[website]: https://jclarktech.com
-[twitter]: https://twitter.com/jclarktech
-[linkedin]: https://linkedin.com/in/jclarktech
+[website]: https://refactorthis.dev
+[twitter]: https://twitter.com/refactor_this
+[linkedin]: https://linkedin.com/in/jonathan-b-clark
