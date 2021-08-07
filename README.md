@@ -56,8 +56,10 @@
 <br />
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=refactor-this&count_private=true&show_icons=true&include_all_commits=true) -->
+P.S. My contribution graph may not show much, I usually am working on private repos so my commits won't show. Just pretend it's all green xD
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactor-this&hide=TeX&layout=compact)
+![snake gif](https://github.com/refactor-this/refactor-this/blob/output/github-contribution-grid-snake.gif)
 
 [website]: https://refactorthis.dev
 [twitter]: https://twitter.com/refactor_this
