@@ -1,7 +1,7 @@
 ### Hello, I my name is Jonathan <img src="https://raw.githubusercontent.com/jclarktech/jclarktech/main/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=refactorthis.dev&style=for-the-badge&url=https%3A%2F%2Frefactorthis.dev)](https://refactorthis.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jclarktech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frefactor_this&screen_name=refactor_this)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jclarktech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frefactor-this&screen_name=refactor_this)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-b-clark/)](https://www.linkedin.com/in/jonathan-b-clark/)
 [![Gmail Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@refactorthis.dev)](mailto:contact@refactorthis.dev)
 
