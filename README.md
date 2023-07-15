@@ -7,8 +7,7 @@
 
 ## About Me
 
-- 🎳 I am a freelance full stack developer
-- 🎓 I'm primarily self-taught, but I did graduate the Thinkful Software Engineering Bootcamp
+- 🎳 I am a Full Stack Software Engineer
 - 🤔 I believe that you should always be learning
 - 🥅 Goal: Contribute more to open source projects
 - 🎉 Fun fact: I love to create things and problem-solve. Unsurprisingly this matches perfectly with software engineering ¯\_(ツ)_/¯ 
